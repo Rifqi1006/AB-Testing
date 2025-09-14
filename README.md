@@ -1,6 +1,6 @@
 # 🍔 Analisis A/B Testing Kampanye Promosi Fast Food
 
-A/B testing adalah metode eksperimen yang digunakan untuk membandingkan dua atau lebih variasi (dalam hal ini, strategi promosi) untuk menentukan mana yang paling efektif dalam mencapai tujuan bisnis. Project ini menganalisis hasil A/B testing dari tiga kampanye pemasaran yang berbeda yang dijalankan oleh sebuah jaringan fast food untuk meluncurkan menu baru. Analisis ini bertujuan untuk memberikan rekomendasi data-driven berdasarkan evaluasi statistik yang rigor terhadap performa penjualan masing-masing strategi promosi.  
+A/B testing adalah metode eksperimen yang digunakan untuk membandingkan dua atau lebih variasi untuk menentukan mana yang paling efektif dalam mencapai tujuan bisnis. Project ini menganalisis hasil A/B testing dari tiga kampanye pemasaran yang berbeda yang dijalankan oleh sebuah jaringan fast food untuk meluncurkan menu baru. Analisis ini bertujuan untuk memberikan rekomendasi data-driven berdasarkan evaluasi statistik terhadap performa penjualan masing-masing strategi promosi.  
 
 ---
 
@@ -16,13 +16,13 @@ A/B testing adalah metode eksperimen yang digunakan untuk membandingkan dua atau
 - Data bersumber dari Kaggle: [Fast Food Marketing Campaign A/B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test)
 - Ukuran Data: 548 observasi, 8 kolom
 - Struktur Kolom:
-   - MarketID : Pengidentifikasi unik untuk pasar
-   - MarketSize : Ukuran area pasar berdasarkan penjualan
-   - LocationID : Pengidentifikasi unik untuk lokasi toko
-   - AgeOfStore : Usia toko dalam tahun
-   - Promotion : Tipe promosi (satu dari tiga strategi yang diuji)
-   - week : Minggu ke-berapa dari periode promosi (1–4)
-   - SalesInThousands : Jumlah penjualan (dalam ribuan USD) untuk kombinasi lokasi, promosi, dan minggu tertentu
+   - `MarketID` : Pengidentifikasi unik untuk pasar
+   - `MarketSize` : Ukuran area pasar berdasarkan penjualan
+   - `LocationID` : Pengidentifikasi unik untuk lokasi toko
+   - `AgeOfStore` : Usia toko dalam tahun
+   - `Promotion` : Tipe promosi (satu dari tiga strategi yang diuji)
+   - `week` : Minggu ke-berapa dari periode promosi (1–4)
+   - `SalesInThousands` : Jumlah penjualan (dalam ribuan USD) untuk kombinasi lokasi, promosi, dan minggu tertentu
 
 ---
 
