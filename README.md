@@ -72,4 +72,4 @@ A/B testing adalah metode eksperimen yang digunakan untuk membandingkan dua atau
 
 ## 🚀 Rekomendasi Bisnis  
 
-Promosi 1 direkomendasikan sebagai strategi pemasaran yang optimal karena konsisten menunjukkan performa penjualan terbaik dibandingkan alternatif lainnya. Dibandingkan Promosi 2, strategi ini memberikan peningkatan hasil yang nyata dan berdampak signifikan pada revenue. Sementara itu, perbedaan dengan Promosi 3 lebih kecil dan tidak terbukti signifikan secara statistik. Secara keseluruhan, Promosi 1 adalah pilihan paling efektif untuk diterapkan dalam kampanye pemasaran berikutnya.
+Promosi 2 secara konsisten memiliki performa terendah sehingga kurang efektif dalam meningkatkan penjualan. Sebaliknya, Promosi 1 dan Promosi 3 menunjukkan performa yang lebih baik dengan hasil yang tidak berbeda signifikan. Oleh karena itu, strategi promosi sebaiknya difokuskan pada Promosi 1 atau Promosi 3, sementara Promosi 2 dapat dipertimbangkan untuk dievaluasi atau diganti dengan pendekatan lain
